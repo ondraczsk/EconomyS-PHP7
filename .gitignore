@@ -1,0 +1,8 @@
+Economy*/*.*
+!Economy*/plugin.yml
+.idea
+/*
+!/Economy*
+!/LICENSE
+!/README.md
+!.gitignore
