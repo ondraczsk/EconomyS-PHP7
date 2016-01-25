@@ -382,7 +382,7 @@ class EconomySell extends PluginBase implements Listener{
 		];
 		foreach($colors as $color => $code){
 			$search[] = "%%".$color."%%";
-			$replace[] = TextFormat::ESCAPE.$code;
+			$replace[] = §.$code;
 		}
 	}
 
